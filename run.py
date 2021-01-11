@@ -1,54 +1,3 @@
-
-Skip to content
-
-    Why GitHub?
-                          
-
-
-                    
-Team
-Enterprise
-Explore
-                      
-
-                    
-Marketplace
-Pricing
-                       
-
-
-                        
-
-Sign in
-Sign up
-ratedali /
-fb-page-chat-download
-forked from eisenjulian/fb-page-chat-download
-
-0
-0
-
-    30
-
-Code
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-fb-page-chat-download/run.py /
-@ratedali
-ratedali Remove limits
-Latest commit 9f6011c 27 days ago
-History
-4 contributors
-@eisenjulian
-@ratedali
-@chrismaeda
-@alyxb
-137 lines (120 sloc) 5.57 KB
 #!/usr/bin/env python
 # encoding: utf-8
 
@@ -186,18 +135,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
